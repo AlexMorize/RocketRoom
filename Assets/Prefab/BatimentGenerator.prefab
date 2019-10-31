@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6677725729909950495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6677725729909950489}
+  - component: {fileID: 6677725729909950488}
+  m_Layer: 0
+  m_Name: BatimentGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6677725729909950489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6677725729909950495}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6677725729909950488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6677725729909950495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97cc7f03fd2da4140884947b191218d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HauteurEtage: 6
+  NbEtage: 5
+  LargeurMaison: 20
+  FloorPrefab: {fileID: 515619078158154252, guid: e8830fb93ef98194fa96b026e23f4c3b,
+    type: 3}
+  WallPrefab: {fileID: 2616612677579041818, guid: f88215135e5b9404582117d358ec2b59,
+    type: 3}
+  Coin: {fileID: 3950547993883023592, guid: 9a05f7214c454944f8d19fcfc7a4e3ac, type: 3}
+  Torche: {fileID: 426103751782854903, guid: d0575afb06f136d4d9b1c2214e7b2660, type: 3}
+  Jump: {fileID: 1090321340822085513, guid: 3cbe0472e653f7445b10ab52efccb889, type: 3}

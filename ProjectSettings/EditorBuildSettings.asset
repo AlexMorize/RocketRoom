@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/StartMenu.unity
+    guid: ab2574a9117ad1f488f33843836601cf
+  - enabled: 1
+    path: Assets/Scenes/MenuVersus.unity
+    guid: 87840becdcf63604eaec31c48dc1664c
+  - enabled: 0
+    path: Assets/Scenes/LanMenu.unity
+    guid: e853694014e46b849948134f59f9e925
+  - enabled: 0
+    path: Assets/IA_Learning.unity
+    guid: 528f73bb50ae93a4899db3282320afd7
+  - enabled: 0
+    path: Assets/Scenes/SceneAlexis1.unity
+    guid: 1ed142ee624abf54ea6cfd352021c8da
+  - enabled: 0
+    path: Assets/Scenes/ConfigManette.unity
+    guid: 915fafdd7dddc8d439345373ab1eb87d
+  - enabled: 0
+    path: Assets/Scenes/DebugConsoleAndroid.unity
+    guid: 982c5582ed3373747874e4553835c83b
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2831afc4b2238384fa8d43db4f559739
+  m_configObjects: {}

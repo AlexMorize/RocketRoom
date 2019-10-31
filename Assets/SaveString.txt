@@ -1,0 +1,6 @@
+Controller :
+
+Xbox Bluetooth Gamepad
+Joystick; analog 0;False; analog 1;True; analog 3;False; analog 4;True;button 0;button 5;
+
+;Horizontal;False;Vertical;False;Mouse X;False;Mouse Y;False;space;mouse 0;
